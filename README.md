@@ -12,7 +12,7 @@ I am a self-motivated B.Tech IT student (8.32 CGPA) with a keen interest in Data
   </a>
 </div>
 
-## ⚡ LC & CF Stats:
+## ⚡ LC Stats:
 <div align="center">
   <a href="https://leetcode.com/lakshyapawar07/">
     <img height=300 align="center" src="https://leetcard.jacoblin.cool/lakshyapawar07?theme=dark&font=ABeeZee&ext=contest" />
