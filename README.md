@@ -2,7 +2,7 @@
 
 I am a self-motivated B.Tech IT student (8.32 CGPA) with a keen interest in Data Analytics and Cloud Computing. I'm a Deloitte Hacksplosion 2025 finalist with hands-on experience in real-world tech challenges, gained during a summer internship at Deloitte. My skills include MySQL, C++, Data Structures & Algorithms, Python, and RESTful API design with MuleSoft and Salesforce. I'm currently focused on improving my problem-solving skills to bridge the gap between finance and technology.
 
-## 📊 GitHub Stats:
+## 🚀 GitHub:
 <div align="center">
   <a href="https://github.com/Lakshya-Pawar">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lakshya-Pawar&theme=blueberry&show_icons=true&hide_border=true&count_private=true&rank_icon=github&hide=stars,issues&show=prs_merged_percentage" />
@@ -12,7 +12,7 @@ I am a self-motivated B.Tech IT student (8.32 CGPA) with a keen interest in Data
   </a>
 </div>
 
-## ⚡ LC Stats:
+## ⚡ LeetCode:
 <div align="center">
   <a href="https://leetcode.com/lakshyapawar07/">
     <img height=300 align="center" src="https://leetcard.jacoblin.cool/lakshyapawar07?theme=dark&font=ABeeZee&ext=contest" />
