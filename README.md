@@ -25,7 +25,7 @@ I am a self-motivated B.Tech IT student (8.32 CGPA) with a keen interest in Data
   </a>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Lakshya-Pawar/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Lakshya-Pawar/Lakshya-Pawar/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **Lakshya-Pawar/Lakshya-Pawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
