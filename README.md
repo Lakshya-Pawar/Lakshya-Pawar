@@ -2,6 +2,16 @@
 
 I am a self-motivated B.Tech IT student (8.32 CGPA) with a keen interest in Data Analytics and Cloud Computing. I'm a Deloitte Hacksplosion 2025 finalist with hands-on experience in real-world tech challenges, gained during a summer internship at Deloitte. My skills include MySQL, C++, Data Structures & Algorithms, Python, and RESTful API design with MuleSoft and Salesforce. I'm currently focused on improving my problem-solving skills to bridge the gap between finance and technology.
 
+## 🚀 GitHub:
+<div align="center">
+  <a href="https://github.com/Lakshya-Pawar">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lakshya-Pawar&theme=blueberry&show_icons=true&hide_border=true&count_private=true&rank_icon=github&hide=stars,issues&show=prs_merged_percentage" />
+  </a>
+  <a href="https://github.com/Lakshya-Pawar">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya-Pawar&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=250&langs_count=8" />
+  </a>
+</div>
+
 ## ⚡ LeetCode:
 <div align="center">
   <a href="https://leetcode.com/lakshyapawar07/">
@@ -14,18 +24,6 @@ I am a self-motivated B.Tech IT student (8.32 CGPA) with a keen interest in Data
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-pawar-165b81265/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshyapawar07@gmail.com) 
-
-## 🚀 GitHub:
-<div align="center">
-  <a href="https://github.com/Lakshya-Pawar">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lakshya-Pawar&theme=blueberry&show_icons=true&hide_border=true&count_private=true&rank_icon=github&hide=stars,issues&show=prs_merged_percentage" />
-  </a>
-  <a href="https://github.com/Lakshya-Pawar">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya-Pawar&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=250&langs_count=8" />
-  </a>
-</div>
-
-![Snake animation](https://raw.githubusercontent.com/Lakshya-Pawar/Lakshya-Pawar/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **Lakshya-Pawar/Lakshya-Pawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
