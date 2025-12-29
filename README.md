@@ -12,10 +12,6 @@ I am a self-motivated B.Tech IT student (8.32 CGPA) with a keen interest in Data
   </a>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lakshya-Pawar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Lakshya-Pawar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=3&order=3" height="150" alt="streak graph"  />
-</div>
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Lakshya-Pawar.Lakshya-Pawar&"  />
 </div>
 
