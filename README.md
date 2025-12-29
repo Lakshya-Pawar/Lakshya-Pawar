@@ -11,15 +11,10 @@ I am a self-motivated B.Tech IT student (8.32 CGPA) with a keen interest in Data
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya-Pawar&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=250&langs_count=8" />
   </a>
 </div>
-
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lakshya-Pawar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Lakshya-Pawar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=3&order=3" height="150" alt="streak graph"  />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshya-Pawar&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Lakshya-Pawar.Lakshya-Pawar&"  />
 </div>
