@@ -1,6 +1,6 @@
-# 👋 Hi there, I am Lakshya Pawar
+# 👋 Hi.
 
-I am a self-motivated B.Tech IT student (8.32 CGPA) with a keen interest in Data Analytics and Cloud Computing. I'm a Deloitte Hacksplosion 2025 finalist with hands-on experience in real-world tech challenges, gained during a summer internship at Deloitte. My skills include MySQL, C++, Data Structures & Algorithms, Python, and RESTful API design with MuleSoft and Salesforce. I'm currently focused on improving my problem-solving skills to bridge the gap between finance and technology.
+Lakshya Pawar | CGPA: 8.5 | Deloitte | Infosys | Accenture
 
 ## 🚀 GitHub:
 <div align="center">
